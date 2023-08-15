@@ -8,7 +8,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       title: "Flutter UI",
       home: Scaffold(
-        body: GridColorUI(),
+        body: ContainerImageUI(),
       ),
     ),
   );
